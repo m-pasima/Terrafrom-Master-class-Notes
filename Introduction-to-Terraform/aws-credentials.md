@@ -1,6 +1,3 @@
-Below are **clear, teaching-ready notes** formatted for **`aws-credentials.md`**, aligned with **AWS + Terraform + Windows** usage.
-
----
 
 # AWS Credentials
 

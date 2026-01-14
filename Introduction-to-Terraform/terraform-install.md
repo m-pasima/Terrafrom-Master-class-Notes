@@ -1,7 +1,3 @@
-Below is a **rewritten, structured, teaching-ready version** of the Terraform installation notes, tailored for **AWS + Windows as the primary environment**, with references for other platforms and **VS Code plugin recommendations**.
-This content is fully **Markdown-ready** and can be saved as a `.md` file.
-
----
 
 # Terraform Installation (AWS + Windows Focus)
 
